@@ -17,6 +17,7 @@ MAINO_FILES := ${MAIN_FILES:main/%.cpp=%}
 all: ${OBJ_FILES} ${MAINO_FILES}
 	echo "Compiled all main files"
 
+.PHONY: clean
 clean:
 	-rm -f main*
 	rm -f *.o

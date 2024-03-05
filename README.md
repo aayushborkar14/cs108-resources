@@ -4,4 +4,8 @@ To extract W3Schools (containing only HTML, CSS and JS), run the following comma
 tar -xzf W3Schools/W3-part1.tar.gz -C W3Schools
 tar -xzf W3Schools/W3-part2.tar.gz -C W3Schools
 ```
-
+Gnome help (useful for man pages):
+```
+yelp man:grep
+yelp man:find
+```
