@@ -1,0 +1,35 @@
+.user-form {
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+}
+
+.user-form input {
+  margin: 10px;
+}
+
+body {
+  background-color: azure;
+}
+
+#feedback {
+  text-align: center;
+}
+
+.error,
+.success {
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+h1 {
+  text-align: center;
+}
+
