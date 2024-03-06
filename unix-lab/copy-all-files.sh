@@ -1,0 +1,1 @@
+cp $(find ./input -type f) output/

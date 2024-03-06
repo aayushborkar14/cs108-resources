@@ -1,0 +1,5 @@
+gursin:100:chandigarh
+kavgup:95:lucknow
+ridsar:88:jodhpur
+sakrat:74:jodhpur
+maykum:69:haryana
